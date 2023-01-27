@@ -46,3 +46,13 @@ var isCute = true;
 var isFunny = true;
 
 
+// Array type variable
+var numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+var friends = ["Himel", "Rakib", "Rakibul", "Rakibul Islam", "Rakibul Islam Himel"];
+var countries = ["Bangladesh", "India", "Pakistan", "Srilanka", "Nepal", "Bhutan", "Afganistan"];
+var cities = ["Dhaka", "Chittagong", "Rajshahi", "Khulna", "Barishal", "Sylhet", "Rangpur"];
+var languages = ["Bangla", "English", "Hindi", "Urdu", "Arabic", "Spanish", "French"];
+var colors = ["Red", "Green", "Blue", "Yellow", "Black", "White", "Pink", "Purple", "Orange", "Brown"];
+var fruits = ["Apple", "Mango", "Orange", "Banana", "Grapes", "Watermelon", "Pineapple", "Strawberry", "Papaya", "Lichi"];
+var vegetables = ["Potato", "Tomato", "Brinjal", "Cabbage", "Cauliflower", "Carrot", "Onion", "Garlic", "Ginger", "Spinach"];
+var animals = ["Lion", "Tiger", "Leopard", "Elephant", "Zebra", "Giraffe", "Monkey", "Rabbit", "Deer", "Dog"];
